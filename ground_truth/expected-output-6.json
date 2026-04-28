@@ -1,0 +1,357 @@
+[
+  {
+    "label": "2345-7",
+    "value": 100,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "41604-0",
+    "value": 94,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "4548-4",
+    "value": 4.9,
+    "unit": "%"
+  },
+  {
+    "label": "6768-6",
+    "value": 41,
+    "unit": "U/L"
+  },
+  {
+    "label": "1975-2",
+    "value": 5,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "1968-7",
+    "value": 0.95,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "1971-1",
+    "value": 4.05,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "2324-2",
+    "value": 24,
+    "unit": "U/L"
+  },
+  {
+    "label": "1920-8",
+    "value": 29,
+    "unit": "U/L"
+  },
+  {
+    "label": "1742-6",
+    "value": 41,
+    "unit": "U/L"
+  },
+  {
+    "label": "2885-2",
+    "value": 4,
+    "unit": "g/dL"
+  },
+  {
+    "label": "1751-7",
+    "value": 1,
+    "unit": "g/dL"
+  },
+  {
+    "label": "1759-0",
+    "value": 0.33,
+    "unit": null
+  },
+  {
+    "label": "16325-3",
+    "value": 0.7,
+    "unit": null
+  },
+  {
+    "label": "17861-6",
+    "value": 8,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "3084-1",
+    "value": 4,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "2160-0",
+    "value": 0.8,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "2951-2",
+    "value": 150,
+    "unit": "mEq/L"
+  },
+  {
+    "label": "2075-0",
+    "value": 100,
+    "unit": "mEq/L"
+  },
+  {
+    "label": "2823-3",
+    "value": 4,
+    "unit": "mEq/L"
+  },
+  {
+    "label": "6690-2",
+    "value": 5,
+    "unit": "thou/mm3"
+  },
+  {
+    "label": "770-8",
+    "value": 54,
+    "unit": "%"
+  },
+  {
+    "label": "736-9",
+    "value": 34.1,
+    "unit": "%"
+  },
+  {
+    "label": "5905-5",
+    "value": 6.1,
+    "unit": "%"
+  },
+  {
+    "label": "713-8",
+    "value": 5.1,
+    "unit": "%"
+  },
+  {
+    "label": "706-2",
+    "value": 0.9,
+    "unit": "%"
+  },
+  {
+    "label": "751-8",
+    "value": 2.7,
+    "unit": "thou/mm3"
+  },
+  {
+    "label": "731-0",
+    "value": 1.71,
+    "unit": "thou/mm3"
+  },
+  {
+    "label": "742-7",
+    "value": 0.31,
+    "unit": "thou/mm3"
+  },
+  {
+    "label": "704-7",
+    "value": 0.05,
+    "unit": "thou/mm3"
+  },
+  {
+    "label": "711-2",
+    "value": 0.26,
+    "unit": "thou/mm3"
+  },
+  {
+    "label": "789-8",
+    "value": 3.4,
+    "unit": "mill/mm3"
+  },
+  {
+    "label": "718-7",
+    "value": 13.1,
+    "unit": "g/dL"
+  },
+  {
+    "label": "4544-3",
+    "value": 39.3,
+    "unit": "%"
+  },
+  {
+    "label": "787-2",
+    "value": 89.7,
+    "unit": "fL"
+  },
+  {
+    "label": "785-6",
+    "value": 29.3,
+    "unit": "pg"
+  },
+  {
+    "label": "786-4",
+    "value": 32.6,
+    "unit": "g/dL"
+  },
+  {
+    "label": "788-0",
+    "value": 14.1,
+    "unit": "%"
+  },
+  {
+    "label": "32623-1",
+    "value": 13.2,
+    "unit": "fL"
+  },
+  {
+    "label": "777-3",
+    "value": 152,
+    "unit": "thou/mm3"
+  },
+  {
+    "label": "4537-7",
+    "value": 28,
+    "unit": "mm/hr"
+  },
+  {
+    "label": "2498-4",
+    "value": 80,
+    "unit": "\u00b5g/dl"
+  },
+  {
+    "label": "2500-7",
+    "value": 150,
+    "unit": "\u00b5g/dl"
+  },
+  {
+    "label": "2502-3",
+    "value": 53.33,
+    "unit": "%"
+  },
+  {
+    "label": "1798-8",
+    "value": 47,
+    "unit": "U/L"
+  },
+  {
+    "label": "2093-3",
+    "value": 125,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "2571-8",
+    "value": 129,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "1869-7",
+    "value": 129,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "1884-6",
+    "value": 105,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "28473-3",
+    "value": 0.81,
+    "unit": null
+  },
+  {
+    "label": "30522-7",
+    "value": ">10.00",
+    "unit": "mg/L"
+  },
+  {
+    "label": "3053-6",
+    "value": 0.8,
+    "unit": "ng/mL"
+  },
+  {
+    "label": "3026-2",
+    "value": 0.7,
+    "unit": "ug/dL"
+  },
+  {
+    "label": "3016-3",
+    "value": 1.9,
+    "unit": "uIU/mL"
+  },
+  {
+    "label": "2132-9",
+    "value": 410,
+    "unit": "pg/mL"
+  },
+  {
+    "label": "1989-3",
+    "value": 129,
+    "unit": "nmol/L"
+  },
+  {
+    "label": "2777-1",
+    "value": 7,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "13945-1",
+    "value": "negative",
+    "unit": null
+  },
+  {
+    "label": "5764-5",
+    "value": 5,
+    "unit": null
+  },
+  {
+    "label": "2965-2",
+    "value": 1.01,
+    "unit": null
+  },
+  {
+    "label": "25428-4",
+    "value": "negative",
+    "unit": null
+  },
+  {
+    "label": "2514-8",
+    "value": "negative",
+    "unit": null
+  },
+  {
+    "label": "20454-5",
+    "value": "negative",
+    "unit": null
+  },
+  {
+    "label": "5770-2",
+    "value": "negative",
+    "unit": null
+  },
+  {
+    "label": "13658-0",
+    "value": "negative",
+    "unit": null
+  },
+  {
+    "label": "5802-3",
+    "value": "negative",
+    "unit": null
+  },
+  {
+    "label": "5821-3",
+    "value": "negative",
+    "unit": null
+  },
+  {
+    "label": "24124-3",
+    "value": "none seen",
+    "unit": null
+  },
+  {
+    "label": "5786-8",
+    "value": "negative",
+    "unit": null
+  },
+  {
+    "label": "5787-6",
+    "value": "few",
+    "unit": null
+  },
+  {
+    "label": "5778-6",
+    "value": "slight lemon yellow",
+    "unit": null
+  }
+]

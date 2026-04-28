@@ -1,0 +1,1277 @@
+{
+  "sample-report-1": [
+    {
+      "label": "718-7",
+      "value": 15.5,
+      "unit": "g%"
+    },
+    {
+      "label": "789-8",
+      "value": 4.6,
+      "unit": "million/cu.mm"
+    },
+    {
+      "label": "20570-8",
+      "value": 37.8,
+      "unit": "%"
+    },
+    {
+      "label": "787-2",
+      "value": 82.17,
+      "unit": "fl"
+    },
+    {
+      "label": "785-6",
+      "value": 33.7,
+      "unit": "pg"
+    },
+    {
+      "label": "786-4",
+      "value": 41.01,
+      "unit": "%"
+    },
+    {
+      "label": "788-0",
+      "value": 16,
+      "unit": "fl"
+    },
+    {
+      "label": "6690-2",
+      "value": 8000,
+      "unit": "/cumm"
+    },
+    {
+      "label": "770-8",
+      "value": 50,
+      "unit": "%"
+    },
+    {
+      "label": "736-9",
+      "value": 40,
+      "unit": "%"
+    },
+    {
+      "label": "713-8",
+      "value": 7,
+      "unit": "%"
+    },
+    {
+      "label": "5905-5",
+      "value": 3,
+      "unit": "%"
+    },
+    {
+      "label": "706-2",
+      "value": 0,
+      "unit": "%"
+    },
+    {
+      "label": "777-3",
+      "value": 400000,
+      "unit": "/cumm"
+    },
+    {
+      "label": "platelets_on_smear_smear",
+      "value": "adequate",
+      "unit": null
+    },
+    {
+      "label": "18311-0",
+      "value": "normocytic, normochromic",
+      "unit": null
+    },
+    {
+      "label": "wbcs_on_ps_smear",
+      "value": "normal",
+      "unit": null
+    },
+    {
+      "label": "rdwsd_blood",
+      "value": 50,
+      "unit": "fl"
+    },
+    {
+      "label": "755-7",
+      "value": 20,
+      "unit": "%"
+    },
+    {
+      "label": "32623-1",
+      "value": 12,
+      "unit": "fl"
+    },
+    {
+      "label": "51640-0",
+      "value": 40,
+      "unit": "%"
+    }
+  ],
+  "sample-report-2": [
+    {
+      "label": "718-7",
+      "value": 15,
+      "unit": "g/dl"
+    },
+    {
+      "label": "6690-2",
+      "value": 5100,
+      "unit": "cumm"
+    },
+    {
+      "label": "770-8",
+      "value": 79,
+      "unit": "%"
+    },
+    {
+      "label": "736-9",
+      "value": 18,
+      "unit": "%"
+    },
+    {
+      "label": "713-8",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "5905-5",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "706-2",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "777-3",
+      "value": 3.5,
+      "unit": "lakhs/cumm"
+    },
+    {
+      "label": "789-8",
+      "value": 5,
+      "unit": "million/cumm"
+    },
+    {
+      "label": "20570-8",
+      "value": 42,
+      "unit": "%"
+    },
+    {
+      "label": "787-2",
+      "value": 84.0,
+      "unit": "fL"
+    },
+    {
+      "label": "785-6",
+      "value": 30.0,
+      "unit": "Pg"
+    },
+    {
+      "label": "786-4",
+      "value": 35.7,
+      "unit": "%"
+    }
+  ],
+  "sample-report-3": [
+    {
+      "label": "718-7",
+      "value": 14.8,
+      "unit": "g/dL"
+    },
+    {
+      "label": "789-8",
+      "value": 5.1,
+      "unit": "10^6/\u00b5L"
+    },
+    {
+      "label": "6690-2",
+      "value": 7.2,
+      "unit": "10^3/\u00b5L"
+    },
+    {
+      "label": "777-3",
+      "value": 275,
+      "unit": "10^3/\u00b5L"
+    },
+    {
+      "label": "787-2",
+      "value": 89,
+      "unit": "fL"
+    },
+    {
+      "label": "785-6",
+      "value": 30.2,
+      "unit": "pg"
+    },
+    {
+      "label": "786-4",
+      "value": 34.1,
+      "unit": "g/dL"
+    },
+    {
+      "label": "788-0",
+      "value": 13.1,
+      "unit": "%"
+    },
+    {
+      "label": "770-8",
+      "value": 62,
+      "unit": "%"
+    },
+    {
+      "label": "736-9",
+      "value": 29,
+      "unit": "%"
+    },
+    {
+      "label": "5905-5",
+      "value": 6,
+      "unit": "%"
+    },
+    {
+      "label": "713-8",
+      "value": 2,
+      "unit": "%"
+    },
+    {
+      "label": "706-2",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "30341-2",
+      "value": 10,
+      "unit": "mm/hr"
+    }
+  ],
+  "sample-report-4": [
+    {
+      "label": "6690-2",
+      "value": 6000,
+      "unit": "/\u00b5L"
+    },
+    {
+      "label": "789-8",
+      "value": 4.5,
+      "unit": "million /\u00b5L"
+    },
+    {
+      "label": "718-7",
+      "value": 13.5,
+      "unit": "g/dL"
+    },
+    {
+      "label": "20570-8",
+      "value": 40,
+      "unit": "%"
+    },
+    {
+      "label": "777-3",
+      "value": 250000,
+      "unit": "/\u00b5L"
+    },
+    {
+      "label": "2345-7",
+      "value": 90,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2951-2",
+      "value": 140,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "2823-3",
+      "value": 4.2,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "2075-0",
+      "value": 102,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "1920-8",
+      "value": 20,
+      "unit": "U/L"
+    },
+    {
+      "label": "1742-6",
+      "value": 25,
+      "unit": "U/L"
+    },
+    {
+      "label": "3094-0",
+      "value": 14,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2160-0",
+      "value": 0.9,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2093-3",
+      "value": 180,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2085-9",
+      "value": 55,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2089-1",
+      "value": 100,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2571-8",
+      "value": 120,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "liver_ultrasound",
+      "value": "normal size, smooth surface, sharp edges, normal echogenicity and echotexture. no abnormalities detected.",
+      "unit": null
+    },
+    {
+      "label": "gallbladder_ultrasound",
+      "value": "full, with thin and echogenic walls, containing anechoic and homogeneous content.",
+      "unit": null
+    },
+    {
+      "label": "spleen_ultrasound",
+      "value": "size, shape, contour, echogenicity, and echotexture preserved.",
+      "unit": null
+    },
+    {
+      "label": "kidneys_ultrasound",
+      "value": "maintained shape and located in their usual positions, symmetrical dimensions. both have preserved architecture and corticomedullary relationships. no sonographic evidence of hydronephrosis or images compatible with stones.",
+      "unit": null
+    },
+    {
+      "label": "bladder_ultrasound",
+      "value": "full with anechoic content, thin walls and regular contour.",
+      "unit": null
+    },
+    {
+      "label": "stomach_ultrasound",
+      "value": "contains mixed luminal content (gas and food), walls have a maintained sonographic appearance with a layered pattern.",
+      "unit": null
+    },
+    {
+      "label": "intestinal_loops_ultrasound",
+      "value": "usual topographic distribution; segments of the loop maintain a layered pattern and normal echogenicity, with progressive peristalsis and a normal number of contractions.",
+      "unit": null
+    },
+    {
+      "label": "adrenals_ultrasound",
+      "value": "maintained shape, regular edges, preserved corticomedullary distinction, and echogenicity.",
+      "unit": null
+    },
+    {
+      "label": "abdominal_lymph_nodes_ultrasound",
+      "value": "abdominal lymph nodes within normal limits.",
+      "unit": null
+    }
+  ],
+  "sample-report-5": [
+    {
+      "label": "2951-2",
+      "value": 141,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2823-3",
+      "value": 4.1,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2075-0",
+      "value": 99,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "3094-0",
+      "value": 7.1,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2160-0",
+      "value": 88,
+      "unit": "umol/L"
+    },
+    {
+      "label": "62238-1",
+      "value": 60,
+      "unit": "mL/min/1.73m2"
+    },
+    {
+      "label": "3084-1",
+      "value": 0.21,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "1920-8",
+      "value": 33,
+      "unit": "U/L"
+    },
+    {
+      "label": "1742-6",
+      "value": 25,
+      "unit": "U/L"
+    },
+    {
+      "label": "1558-6",
+      "value": 5.6,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "4548-4",
+      "value": 5.2,
+      "unit": "%"
+    },
+    {
+      "label": "59261-8",
+      "value": 33,
+      "unit": "mmol/mol"
+    },
+    {
+      "label": "14957-5",
+      "value": 1.5,
+      "unit": "mg/L"
+    },
+    {
+      "label": "14683-7",
+      "value": 16.8,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "9318-7",
+      "value": 0.1,
+      "unit": "mg Alb/mmol"
+    }
+  ],
+  "sample-report-6": [
+    {
+      "label": "76629-5",
+      "value": 100.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "74246-0",
+      "value": 94,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "4548-4",
+      "value": 4.9,
+      "unit": "%"
+    },
+    {
+      "label": "6768-6",
+      "value": 41,
+      "unit": "U/L"
+    },
+    {
+      "label": "1975-2",
+      "value": 5.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1968-7",
+      "value": 0.95,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1971-1",
+      "value": 4.05,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2324-2",
+      "value": 24,
+      "unit": "U/L"
+    },
+    {
+      "label": "1920-8",
+      "value": 29,
+      "unit": "U/L"
+    },
+    {
+      "label": "1742-6",
+      "value": 41,
+      "unit": "U/L"
+    },
+    {
+      "label": "2885-2",
+      "value": 4.0,
+      "unit": "g/dL"
+    },
+    {
+      "label": "1751-7",
+      "value": 1.0,
+      "unit": "g/dL"
+    },
+    {
+      "label": "1759-0",
+      "value": 0.33,
+      "unit": null
+    },
+    {
+      "label": "ast_alt_ratio_blood",
+      "value": 0.7,
+      "unit": null
+    },
+    {
+      "label": "17861-6",
+      "value": 8.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3084-1",
+      "value": 4.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2160-0",
+      "value": 0.8,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2951-2",
+      "value": 150.0,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "2075-0",
+      "value": 100.0,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "2823-3",
+      "value": 4.0,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "6690-2",
+      "value": 5.0,
+      "unit": "thou/mm3"
+    },
+    {
+      "label": "770-8",
+      "value": 54.0,
+      "unit": "%"
+    },
+    {
+      "label": "736-9",
+      "value": 34.1,
+      "unit": "%"
+    },
+    {
+      "label": "5905-5",
+      "value": 6.1,
+      "unit": "%"
+    },
+    {
+      "label": "713-8",
+      "value": 5.1,
+      "unit": "%"
+    },
+    {
+      "label": "706-2",
+      "value": 0.9,
+      "unit": "%"
+    },
+    {
+      "label": "751-8",
+      "value": 2.7,
+      "unit": "thou/mm3"
+    },
+    {
+      "label": "731-0",
+      "value": 1.71,
+      "unit": "thou/mm3"
+    },
+    {
+      "label": "742-7",
+      "value": 0.31,
+      "unit": "thou/mm3"
+    },
+    {
+      "label": "704-7",
+      "value": 0.05,
+      "unit": "thou/mm3"
+    },
+    {
+      "label": "711-2",
+      "value": 0.26,
+      "unit": "thou/mm3"
+    },
+    {
+      "label": "789-8",
+      "value": 3.4,
+      "unit": "mill/mm3"
+    },
+    {
+      "label": "718-7",
+      "value": 13.1,
+      "unit": "g/dL"
+    },
+    {
+      "label": "4544-3",
+      "value": 39.3,
+      "unit": "%"
+    },
+    {
+      "label": "787-2",
+      "value": 89.7,
+      "unit": "fL"
+    },
+    {
+      "label": "785-6",
+      "value": 29.3,
+      "unit": "pg"
+    },
+    {
+      "label": "786-4",
+      "value": 32.6,
+      "unit": "g/dL"
+    },
+    {
+      "label": "788-0",
+      "value": 14.1,
+      "unit": "%"
+    },
+    {
+      "label": "32623-1",
+      "value": 13.2,
+      "unit": "fL"
+    },
+    {
+      "label": "777-3",
+      "value": 152.0,
+      "unit": "thou/mm3"
+    },
+    {
+      "label": "30341-2",
+      "value": 28,
+      "unit": "mm/hr"
+    },
+    {
+      "label": "2498-4",
+      "value": 80.0,
+      "unit": "\u00b5g/dL"
+    },
+    {
+      "label": "2500-7",
+      "value": 150.0,
+      "unit": "\u00b5g/dL"
+    },
+    {
+      "label": "2501-5",
+      "value": 53.33,
+      "unit": "%"
+    },
+    {
+      "label": "1798-8",
+      "value": 47.0,
+      "unit": "U/L"
+    },
+    {
+      "label": "2093-3",
+      "value": 125.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2571-8",
+      "value": 129.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "55724-3",
+      "value": 129,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "55723-5",
+      "value": 105,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "apob_apoa1_ratio_blood",
+      "value": 0.81,
+      "unit": null
+    },
+    {
+      "label": "30522-7",
+      "value": ">10.00",
+      "unit": "mg/L"
+    },
+    {
+      "label": "3051-0",
+      "value": 0.8,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "3026-2",
+      "value": 0.7,
+      "unit": "ug/dL"
+    },
+    {
+      "label": "3016-3",
+      "value": 1.9,
+      "unit": "uIU/mL"
+    },
+    {
+      "label": "2132-9",
+      "value": 410.0,
+      "unit": "pg/mL"
+    },
+    {
+      "label": "62292-8",
+      "value": 129.0,
+      "unit": "nmol/L"
+    },
+    {
+      "label": "2777-1",
+      "value": 7.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "13945-1",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5764-5",
+      "value": 5,
+      "unit": null
+    },
+    {
+      "label": "5811-4",
+      "value": 1.01,
+      "unit": null
+    },
+    {
+      "label": "25428-4",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "2514-8",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "20454-5",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5770-2",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "13658-0",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5802-3",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5799-1",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "casts_urine",
+      "value": "none seen",
+      "unit": null
+    },
+    {
+      "label": "crystals_urine",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "epithelial_cells_urine",
+      "value": "few",
+      "unit": null
+    },
+    {
+      "label": "color_urine",
+      "value": "slight lemon yellow",
+      "unit": null
+    }
+  ],
+  "sample-report-7": [
+    {
+      "label": "718-7",
+      "value": 14.5,
+      "unit": "g/dL"
+    },
+    {
+      "label": "789-8",
+      "value": 4.79,
+      "unit": "million/cmm"
+    },
+    {
+      "label": "20570-8",
+      "value": 43.3,
+      "unit": "%"
+    },
+    {
+      "label": "787-2",
+      "value": 90.3,
+      "unit": "fL"
+    },
+    {
+      "label": "785-6",
+      "value": 30.2,
+      "unit": "pg"
+    },
+    {
+      "label": "786-4",
+      "value": 33.4,
+      "unit": "g/dL"
+    },
+    {
+      "label": "788-0",
+      "value": 13.6,
+      "unit": "%"
+    },
+    {
+      "label": "6690-2",
+      "value": 10570,
+      "unit": "/cmm"
+    },
+    {
+      "label": "770-4",
+      "value": 73,
+      "unit": "%"
+    },
+    {
+      "label": "731-0",
+      "value": 19,
+      "unit": "%"
+    },
+    {
+      "label": "713-8",
+      "value": 2,
+      "unit": "%"
+    },
+    {
+      "label": "5905-5",
+      "value": 6,
+      "unit": "%"
+    },
+    {
+      "label": "706-2",
+      "value": 0,
+      "unit": "%"
+    },
+    {
+      "label": "753-0",
+      "value": 7716,
+      "unit": "/cmm"
+    },
+    {
+      "label": "731-0-abs",
+      "value": 2008,
+      "unit": "/cmm"
+    },
+    {
+      "label": "711-2",
+      "value": 211,
+      "unit": "/cmm"
+    },
+    {
+      "label": "742-7",
+      "value": 634,
+      "unit": "/cmm"
+    },
+    {
+      "label": "704-7",
+      "value": 0,
+      "unit": "/cmm"
+    },
+    {
+      "label": "777-3",
+      "value": 150000,
+      "unit": "/cmm"
+    },
+    {
+      "label": "32623-1",
+      "value": 14.0,
+      "unit": "fL"
+    },
+    {
+      "label": "rbc_morphology_smear",
+      "value": "normochromic normocytic",
+      "unit": null
+    },
+    {
+      "label": "wbc_morphology_smear",
+      "value": "wbcs series shows normal morphology",
+      "unit": null
+    },
+    {
+      "label": "platelet_morphology_smear",
+      "value": "platelets are adequate with normal morphology",
+      "unit": null
+    },
+    {
+      "label": "malarial_parasite_smear",
+      "value": "malarial parasite is not detected",
+      "unit": null
+    },
+    {
+      "label": "30341-2",
+      "value": 7,
+      "unit": "mm/1hr"
+    },
+    {
+      "label": "883-9",
+      "value": "a",
+      "unit": null
+    },
+    {
+      "label": "10331-7",
+      "value": "positive",
+      "unit": null
+    },
+    {
+      "label": "2093-3",
+      "value": 189.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2571-8",
+      "value": 168.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2085-9",
+      "value": 60.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "18262-5",
+      "value": 100.39,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "13458-5",
+      "value": 33.6,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "9830-1",
+      "value": 3.1,
+      "unit": null
+    },
+    {
+      "label": "11054-4",
+      "value": 1.7,
+      "unit": null
+    },
+    {
+      "label": "1558-6",
+      "value": 141.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "4548-4",
+      "value": 7.1,
+      "unit": "%"
+    },
+    {
+      "label": "14749-6",
+      "value": 157.07,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3051-0",
+      "value": 1.01,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "3026-2",
+      "value": 7.84,
+      "unit": "mg/mL"
+    },
+    {
+      "label": "3016-3",
+      "value": 0.8199,
+      "unit": "microIU/mL"
+    },
+    {
+      "label": "14957-5",
+      "value": 10.5,
+      "unit": "mg/L"
+    },
+    {
+      "label": "2885-2",
+      "value": 7.0,
+      "unit": "g/dL"
+    },
+    {
+      "label": "1751-7",
+      "value": 4.2,
+      "unit": "g/dL"
+    },
+    {
+      "label": "10834-0",
+      "value": 2.8,
+      "unit": "g/dL"
+    },
+    {
+      "label": "1759-0",
+      "value": 1.5,
+      "unit": null
+    },
+    {
+      "label": "1975-2",
+      "value": 0.7,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "14629-0",
+      "value": 0.3,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1968-7",
+      "value": 0.2,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "29771-3",
+      "value": 0.2,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2498-4",
+      "value": 103.0,
+      "unit": "micro g/dL"
+    },
+    {
+      "label": "2500-7",
+      "value": 352.0,
+      "unit": null
+    },
+    {
+      "label": "2502-3",
+      "value": 29.26,
+      "unit": "%"
+    },
+    {
+      "label": "13965-9",
+      "value": 23.86,
+      "unit": "micromol/L"
+    },
+    {
+      "label": "2160-0",
+      "value": 0.83,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3094-0",
+      "value": 18.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "6299-2",
+      "value": 8.41,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3084-1",
+      "value": 4.9,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "17861-6",
+      "value": 9.1,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1742-6",
+      "value": 48.0,
+      "unit": "U/L"
+    },
+    {
+      "label": "1920-8",
+      "value": 27.0,
+      "unit": "U/L"
+    },
+    {
+      "label": "2951-2",
+      "value": 143.0,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2823-3",
+      "value": 4.9,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2075-0",
+      "value": 105.0,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "14635-7",
+      "value": 8.98,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "2132-9",
+      "value": 148,
+      "unit": "pg/mL"
+    },
+    {
+      "label": "10508-5",
+      "value": 0.573,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "19113-0",
+      "value": 492.3,
+      "unit": "IU/mL"
+    },
+    {
+      "label": "5221-7",
+      "value": 0.07,
+      "unit": "S/Co"
+    },
+    {
+      "label": "5195-3",
+      "value": 0.29,
+      "unit": "S/Co"
+    },
+    {
+      "label": "hb_a_hplc_blood",
+      "value": 84.4,
+      "unit": "%"
+    },
+    {
+      "label": "hb_a2_hplc_blood",
+      "value": 2.8,
+      "unit": "%"
+    },
+    {
+      "label": "hb_p2_peak_blood",
+      "value": 5.5,
+      "unit": "%"
+    },
+    {
+      "label": "hb_p3_peak_blood",
+      "value": 5.2,
+      "unit": "%"
+    },
+    {
+      "label": "55406-9",
+      "value": 0.3,
+      "unit": "%"
+    },
+    {
+      "label": "hb_electrophoresis_interpretation_blood",
+      "value": "negative for typical beta thalassemia trait",
+      "unit": null
+    },
+    {
+      "label": "5778-9",
+      "value": "pale yellow",
+      "unit": null
+    },
+    {
+      "label": "32167-9",
+      "value": "clear",
+      "unit": null
+    },
+    {
+      "label": "5764-9",
+      "value": 6.0,
+      "unit": null
+    },
+    {
+      "label": "5811-8",
+      "value": 1.03,
+      "unit": null
+    },
+    {
+      "label": "25428-4",
+      "value": "present (+)",
+      "unit": null
+    },
+    {
+      "label": "20454-5",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "1975-2-urine",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "13658-0",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "2591-6",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5797-9",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5802-7",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5799-5",
+      "value": "1-2",
+      "unit": null
+    },
+    {
+      "label": "13945-1",
+      "value": 0,
+      "unit": "/hpf"
+    },
+    {
+      "label": "11277-1",
+      "value": "1-2",
+      "unit": "/hpf"
+    },
+    {
+      "label": "24124-0",
+      "value": "absent",
+      "unit": "/hpf"
+    },
+    {
+      "label": "5787-0",
+      "value": "absent",
+      "unit": "/hpf"
+    },
+    {
+      "label": "urine_amorphous_material_urine",
+      "value": "absent",
+      "unit": null
+    }
+  ],
+  "sample-report-8": []
+}

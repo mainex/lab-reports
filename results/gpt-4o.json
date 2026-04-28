@@ -1,0 +1,711 @@
+{
+  "sample-report-1": [
+    {
+      "label": "718-7",
+      "value": 15.5,
+      "unit": "g%"
+    },
+    {
+      "label": "6690-2",
+      "value": 8000,
+      "unit": "/ cumm"
+    },
+    {
+      "label": "26515-7",
+      "value": 400000,
+      "unit": "lak/ cumm"
+    },
+    {
+      "label": "rbc_morphology_smear",
+      "value": "normocytic, normochromic",
+      "unit": null
+    }
+  ],
+  "sample-report-2": [
+    {
+      "label": "718-7",
+      "value": 15,
+      "unit": "g/dl"
+    },
+    {
+      "label": "6690-2",
+      "value": 5100,
+      "unit": "cumm"
+    },
+    {
+      "label": "neutrophils_blood",
+      "value": 79,
+      "unit": "%"
+    },
+    {
+      "label": "lymphocytes_blood",
+      "value": 18,
+      "unit": "%"
+    },
+    {
+      "label": "eosinophils_blood",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "monocytes_blood",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "basophils_blood",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "platelet_count_blood",
+      "value": 3.5,
+      "unit": "lakhs/cumm"
+    },
+    {
+      "label": "total_rbc_count_blood",
+      "value": 5,
+      "unit": "million/cumm"
+    },
+    {
+      "label": "4544-3",
+      "value": 42,
+      "unit": "%"
+    },
+    {
+      "label": "787-2",
+      "value": 84.0,
+      "unit": "fL"
+    },
+    {
+      "label": "785-6",
+      "value": 30.0,
+      "unit": "Pg"
+    },
+    {
+      "label": "786-4",
+      "value": 35.7,
+      "unit": "%"
+    }
+  ],
+  "sample-report-3": [
+    {
+      "label": "718-7",
+      "value": 14.8,
+      "unit": "g/dL"
+    },
+    {
+      "label": "6690-2",
+      "value": 7.2,
+      "unit": "10^3/\u00b5L"
+    },
+    {
+      "label": "4544-3",
+      "value": 5.1,
+      "unit": "10^6/\u00b5L"
+    },
+    {
+      "label": "777-3",
+      "value": 275,
+      "unit": "10^3/\u00b5L"
+    },
+    {
+      "label": "787-2",
+      "value": 89,
+      "unit": "fL"
+    },
+    {
+      "label": "785-6",
+      "value": 30.2,
+      "unit": "pg"
+    },
+    {
+      "label": "786-4",
+      "value": 34.1,
+      "unit": "g/dL"
+    },
+    {
+      "label": "788-0",
+      "value": 13.1,
+      "unit": "%"
+    },
+    {
+      "label": "770-8",
+      "value": 62,
+      "unit": "%"
+    },
+    {
+      "label": "736-9",
+      "value": 29,
+      "unit": "%"
+    },
+    {
+      "label": "5905-5",
+      "value": 6,
+      "unit": "%"
+    },
+    {
+      "label": "713-8",
+      "value": 2,
+      "unit": "%"
+    },
+    {
+      "label": "706-2",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "4537-7",
+      "value": 10,
+      "unit": "mm/hr"
+    }
+  ],
+  "sample-report-4": [
+    {
+      "label": "6690-2",
+      "value": 6000,
+      "unit": "/\u00b5L"
+    },
+    {
+      "label": "red_blood_cells_blood",
+      "value": 4500000,
+      "unit": "/\u00b5L"
+    },
+    {
+      "label": "718-7",
+      "value": 13.5,
+      "unit": "g/dL"
+    },
+    {
+      "label": "hematocrit_blood",
+      "value": 40,
+      "unit": "%"
+    },
+    {
+      "label": "platelets_blood",
+      "value": 250000,
+      "unit": "/\u00b5L"
+    },
+    {
+      "label": "2345-7",
+      "value": 90,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2951-2",
+      "value": 140,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "2823-3",
+      "value": 4.2,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "2075-0",
+      "value": 102,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "1920-8",
+      "value": 20,
+      "unit": "U/L"
+    },
+    {
+      "label": "1742-6",
+      "value": 25,
+      "unit": "U/L"
+    },
+    {
+      "label": "3094-0",
+      "value": 14,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2160-0",
+      "value": 0.9,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2093-3",
+      "value": 180,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2085-9",
+      "value": 55,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "13457-7",
+      "value": 100,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2571-8",
+      "value": 120,
+      "unit": "mg/dL"
+    }
+  ],
+  "sample-report-5": [
+    {
+      "label": "2951-2",
+      "value": 141,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2823-3",
+      "value": 4.1,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2075-0",
+      "value": 99,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "3094-0",
+      "value": 7.1,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2160-0",
+      "value": 88,
+      "unit": "umol/L"
+    },
+    {
+      "label": "eGFR_blood",
+      "value": 60,
+      "unit": "mL/min/1.73m2"
+    },
+    {
+      "label": "3084-1",
+      "value": 0.21,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "AST_blood",
+      "value": 33,
+      "unit": "U/L"
+    },
+    {
+      "label": "1742-6",
+      "value": 25,
+      "unit": "U/L"
+    },
+    {
+      "label": "2345-7",
+      "value": 5.6,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "4548-4",
+      "value": 5.2,
+      "unit": "%"
+    },
+    {
+      "label": "urine_albumin_urine",
+      "value": 1.5,
+      "unit": "mg/L"
+    },
+    {
+      "label": "2161-8",
+      "value": 16.8,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "albumin_creatinine_ratio_urine",
+      "value": "< 0.1",
+      "unit": "mg Alb/mmol"
+    }
+  ],
+  "sample-report-7": [
+    {
+      "label": "718-7",
+      "value": 14.5,
+      "unit": "g/dL"
+    },
+    {
+      "label": "6690-2",
+      "value": 10570,
+      "unit": "/cmm"
+    },
+    {
+      "label": "26515-7",
+      "value": 150000,
+      "unit": "/cmm"
+    },
+    {
+      "label": "30385-9",
+      "value": "normocytic, normochromic",
+      "unit": null
+    },
+    {
+      "label": "4544-3",
+      "value": "normal morphology",
+      "unit": null
+    },
+    {
+      "label": "4545-0",
+      "value": "adequate with normal morphology",
+      "unit": null
+    },
+    {
+      "label": "4546-8",
+      "value": "not detected",
+      "unit": null
+    },
+    {
+      "label": "4548-4",
+      "value": 7,
+      "unit": "mm/1hr"
+    },
+    {
+      "label": "882-1",
+      "value": "a",
+      "unit": null
+    },
+    {
+      "label": "10331-7",
+      "value": "positive",
+      "unit": null
+    },
+    {
+      "label": "2093-3",
+      "value": 189.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2571-8",
+      "value": 168.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2085-9",
+      "value": 60.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "13457-7",
+      "value": 100.39,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "13458-5",
+      "value": 33.6,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "32309-7",
+      "value": 3.1,
+      "unit": null
+    },
+    {
+      "label": "32310-5",
+      "value": 1.7,
+      "unit": null
+    },
+    {
+      "label": "1558-6",
+      "value": 141.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "4548-4",
+      "value": 7.1,
+      "unit": "%"
+    },
+    {
+      "label": "4549-2",
+      "value": 157.07,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "30522-7",
+      "value": 1.01,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "3026-2",
+      "value": 7.84,
+      "unit": "mg/mL"
+    },
+    {
+      "label": "3016-3",
+      "value": 0.8199,
+      "unit": "microIU/mL"
+    },
+    {
+      "label": "14957-5",
+      "value": 10.5,
+      "unit": "mg/L"
+    },
+    {
+      "label": "2885-2",
+      "value": 7.0,
+      "unit": "g/dL"
+    },
+    {
+      "label": "1751-7",
+      "value": 4.2,
+      "unit": "g/dL"
+    },
+    {
+      "label": "1759-0",
+      "value": 2.8,
+      "unit": "g/dL"
+    },
+    {
+      "label": "1755-8",
+      "value": 1.5,
+      "unit": null
+    },
+    {
+      "label": "1975-2",
+      "value": 0.7,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1968-7",
+      "value": 0.3,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1971-1",
+      "value": 0.2,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1974-6",
+      "value": 0.2,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2498-4",
+      "value": 103.0,
+      "unit": "micro g/dL"
+    },
+    {
+      "label": "2500-7",
+      "value": 352.0,
+      "unit": null
+    },
+    {
+      "label": "2501-5",
+      "value": 29.26,
+      "unit": "%"
+    },
+    {
+      "label": "13965-9",
+      "value": 23.86,
+      "unit": "micromol/L"
+    },
+    {
+      "label": "2160-0",
+      "value": 0.83,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3094-0",
+      "value": 18.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3097-3",
+      "value": 8.41,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3084-1",
+      "value": 4.9,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "17861-6",
+      "value": 9.1,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1742-6",
+      "value": 48.0,
+      "unit": "U/L"
+    },
+    {
+      "label": "1920-8",
+      "value": 27.0,
+      "unit": "U/L"
+    },
+    {
+      "label": "2951-2",
+      "value": 143.0,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2823-3",
+      "value": 4.9,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2075-0",
+      "value": 105.0,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "14647-2",
+      "value": 8.98,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "2132-9",
+      "value": "< 148",
+      "unit": "pg/mL"
+    },
+    {
+      "label": "2857-1",
+      "value": 0.573,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "19113-0",
+      "value": 492.3,
+      "unit": "IU/mL"
+    },
+    {
+      "label": "56888-1",
+      "value": 0.07,
+      "unit": "S/Co"
+    },
+    {
+      "label": "5196-1",
+      "value": 0.29,
+      "unit": "S/Co"
+    },
+    {
+      "label": "20509-6",
+      "value": 84.4,
+      "unit": "%"
+    },
+    {
+      "label": "20510-4",
+      "value": 2.8,
+      "unit": "%"
+    },
+    {
+      "label": "20511-2",
+      "value": 5.5,
+      "unit": "%"
+    },
+    {
+      "label": "20512-0",
+      "value": 5.2,
+      "unit": "%"
+    },
+    {
+      "label": "20513-8",
+      "value": 0.3,
+      "unit": "%"
+    },
+    {
+      "label": "5778-6",
+      "value": "pale yellow",
+      "unit": null
+    },
+    {
+      "label": "5779-4",
+      "value": "clear",
+      "unit": null
+    },
+    {
+      "label": "5803-2",
+      "value": 6.0,
+      "unit": null
+    },
+    {
+      "label": "5811-5",
+      "value": 1.03,
+      "unit": null
+    },
+    {
+      "label": "5792-7",
+      "value": "present",
+      "unit": null
+    },
+    {
+      "label": "5794-3",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5797-6",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5800-8",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5802-4",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5804-0",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5805-7",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5806-5",
+      "value": "1-2",
+      "unit": null
+    },
+    {
+      "label": "5807-3",
+      "value": "nil",
+      "unit": null
+    },
+    {
+      "label": "5808-1",
+      "value": "1-2",
+      "unit": null
+    },
+    {
+      "label": "5809-9",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5810-7",
+      "value": "absent",
+      "unit": null
+    },
+    {
+      "label": "5812-3",
+      "value": "absent",
+      "unit": null
+    }
+  ],
+  "sample-report-8": [
+    {
+      "label": "apolipoprotein_b_serum",
+      "value": 46.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "cardio_c-reactive_protein_serum",
+      "value": 1.0,
+      "unit": "mg/L"
+    },
+    {
+      "label": "troponin_i_serum",
+      "value": 4,
+      "unit": "ng/L"
+    }
+  ]
+}

@@ -1,0 +1,933 @@
+{
+  "sample-report-1": [
+    {
+      "label": "718-7",
+      "value": 15.5,
+      "unit": "g%"
+    },
+    {
+      "label": "789-8_smear",
+      "value": "normocytic, normochromic",
+      "unit": null
+    }
+  ],
+  "sample-report-2": [
+    {
+      "label": "718-7",
+      "value": 15,
+      "unit": "g/dl"
+    },
+    {
+      "label": "6690-2",
+      "value": 5100,
+      "unit": "cumm"
+    },
+    {
+      "label": "26464-8",
+      "value": 79,
+      "unit": "%"
+    },
+    {
+      "label": "26465-5",
+      "value": 18,
+      "unit": "%"
+    },
+    {
+      "label": "26466-3",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "26467-1",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "26468-9",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "777-3",
+      "value": 3.5,
+      "unit": "lakhs/cumm"
+    },
+    {
+      "label": "789-8",
+      "value": 5,
+      "unit": "million/cumm"
+    },
+    {
+      "label": "4544-3",
+      "value": 42,
+      "unit": "%"
+    },
+    {
+      "label": "787-2",
+      "value": 84.0,
+      "unit": "fL"
+    },
+    {
+      "label": "785-6",
+      "value": 30.0,
+      "unit": "Pg"
+    },
+    {
+      "label": "785-9",
+      "value": 35.7,
+      "unit": "%"
+    }
+  ],
+  "sample-report-3": [
+    {
+      "label": "718-7",
+      "value": 14.8,
+      "unit": "g/dL"
+    },
+    {
+      "label": "789-8",
+      "value": 5.1,
+      "unit": "10^6/\u00b5L"
+    },
+    {
+      "label": "6690-2",
+      "value": 7.2,
+      "unit": "10^3/\u00b5L"
+    },
+    {
+      "label": "789-8",
+      "value": 275,
+      "unit": "10^3/\u00b5L"
+    },
+    {
+      "label": "787-2",
+      "value": 89,
+      "unit": "fL"
+    },
+    {
+      "label": "786-7",
+      "value": 30.2,
+      "unit": "pg"
+    },
+    {
+      "label": "785-9",
+      "value": 34.1,
+      "unit": "g/dL"
+    },
+    {
+      "label": "788-5",
+      "value": 13.1,
+      "unit": "%"
+    },
+    {
+      "label": "751000",
+      "value": 62,
+      "unit": "%"
+    },
+    {
+      "label": "751001",
+      "value": 29,
+      "unit": "%"
+    },
+    {
+      "label": "751002",
+      "value": 6,
+      "unit": "%"
+    },
+    {
+      "label": "751003",
+      "value": 2,
+      "unit": "%"
+    },
+    {
+      "label": "751004",
+      "value": 1,
+      "unit": "%"
+    },
+    {
+      "label": "4537-7",
+      "value": 10,
+      "unit": "mm/hr"
+    }
+  ],
+  "sample-report-4": [
+    {
+      "label": "6690-2",
+      "value": 6000,
+      "unit": "/\u00b5L"
+    },
+    {
+      "label": "789-8",
+      "value": 4.5,
+      "unit": "million/\u00b5L"
+    },
+    {
+      "label": "718-7",
+      "value": 13.5,
+      "unit": "g/dL"
+    },
+    {
+      "label": "4544-3",
+      "value": 40,
+      "unit": "%"
+    },
+    {
+      "label": "777-3",
+      "value": 250000,
+      "unit": "/\u00b5L"
+    },
+    {
+      "label": "2339-0",
+      "value": 90,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2947-0",
+      "value": 140,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "2823-3",
+      "value": 4.2,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "2075-0",
+      "value": 102,
+      "unit": "mEq/L"
+    },
+    {
+      "label": "1920-8",
+      "value": 20,
+      "unit": "U/L"
+    },
+    {
+      "label": "1742-6",
+      "value": 25,
+      "unit": "U/L"
+    },
+    {
+      "label": "3094-0",
+      "value": 14,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "431855",
+      "value": 0.9,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2093-3",
+      "value": 180,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2085-9",
+      "value": 55,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "13457-7",
+      "value": 100,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2571-8",
+      "value": 120,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "liver_smear",
+      "value": "normal size, smooth surface, sharp edges, normal echogenicity and echotexture. no abnormalities detected.",
+      "unit": null
+    },
+    {
+      "label": "gallbladder_smear",
+      "value": "full, with thin and echogenic walls, containing anechoic and homogeneous content.",
+      "unit": null
+    },
+    {
+      "label": "spleen_smear",
+      "value": "size, shape, contour, echogenicity, and echotexture preserved.",
+      "unit": null
+    },
+    {
+      "label": "kidneys_smear",
+      "value": "maintained shape and located in their usual positions, symmetrical dimensions. both have preserved architecture and corticomedullary relationships. no sonographic evidence of hydronephrosis or images compatible with stones.",
+      "unit": null
+    },
+    {
+      "label": "bladder_smear",
+      "value": "full with anechoic content, thin walls measuring x cm, and regular contour.",
+      "unit": null
+    },
+    {
+      "label": "stomach_smear",
+      "value": "contains mixed luminal content (gas and food), walls have a maintained sonographic appearance with a layered pattern, measuring x cm in thickness.",
+      "unit": null
+    },
+    {
+      "label": "intestinal_loops_smear",
+      "value": "usual topographic distribution; segments of the loop maintain a layered pattern and normal echogenicity, with progressive peristalsis and a normal number of contractions.",
+      "unit": null
+    },
+    {
+      "label": "adrenals_smear",
+      "value": "maintained shape, regular edges, preserved corticomedullary distinction, and echogenicity.",
+      "unit": null
+    },
+    {
+      "label": "others_smear",
+      "value": "abdominal lymph nodes within normal limits in this exam.",
+      "unit": null
+    }
+  ],
+  "sample-report-5": [
+    {
+      "label": "2951-2",
+      "value": 141,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2823-3",
+      "value": 4.1,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2075-0",
+      "value": 99,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "3094-0",
+      "value": 7.1,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2160-0",
+      "value": 88,
+      "unit": "umol/L"
+    },
+    {
+      "label": "48642-3",
+      "value": 60,
+      "unit": "mL/min/1.73m2"
+    },
+    {
+      "label": "2028-9",
+      "value": 0.21,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "1920-8",
+      "value": 33,
+      "unit": "U/L"
+    },
+    {
+      "label": "1742-6",
+      "value": 25,
+      "unit": "U/L"
+    },
+    {
+      "label": "2339-0",
+      "value": 5.6,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "4548-4",
+      "value": 5.2,
+      "unit": "%"
+    },
+    {
+      "label": "4548-4_smear",
+      "value": "normal",
+      "unit": null
+    },
+    {
+      "label": "5804-0",
+      "value": 1.5,
+      "unit": "mg/L"
+    },
+    {
+      "label": "2160-0",
+      "value": 16.8,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "50398-0",
+      "value": "< 0.1",
+      "unit": "mg Alb/mmol"
+    }
+  ],
+  "sample-report-6": [
+    {
+      "label": "1558-6",
+      "value": 100.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "4548-4",
+      "value": 4.9,
+      "unit": "%"
+    },
+    {
+      "label": "26464-8",
+      "value": 41,
+      "unit": "U/L"
+    },
+    {
+      "label": "1975-2",
+      "value": 5.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1976-0",
+      "value": 0.95,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1977-8",
+      "value": 4.05,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "5880-4",
+      "value": 24,
+      "unit": "U/L"
+    },
+    {
+      "label": "1920-8",
+      "value": 29,
+      "unit": "U/L"
+    },
+    {
+      "label": "1742-6",
+      "value": 41,
+      "unit": "U/L"
+    },
+    {
+      "label": "2885-2",
+      "value": 4.0,
+      "unit": "g/dL"
+    },
+    {
+      "label": "3500-7",
+      "value": 1.0,
+      "unit": "g/dL"
+    },
+    {
+      "label": "39156-5",
+      "value": 8.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2028-9",
+      "value": 4.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2150-0",
+      "value": 0.8,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "718-7",
+      "value": 13.1,
+      "unit": "g/dL"
+    },
+    {
+      "label": "777-3",
+      "value": 152.0,
+      "unit": "thou/mm3"
+    },
+    {
+      "label": "6690-2",
+      "value": 5.0,
+      "unit": "thou/mm3"
+    },
+    {
+      "label": "1000-7",
+      "value": 80.0,
+      "unit": "\u00b5g/dl"
+    },
+    {
+      "label": "1001-5",
+      "value": 150.0,
+      "unit": "\u00b5g/dl"
+    },
+    {
+      "label": "1002-3",
+      "value": 53.33,
+      "unit": "%"
+    },
+    {
+      "label": "2093-3",
+      "value": 47.0,
+      "unit": "U/L"
+    },
+    {
+      "label": "2094-1",
+      "value": 125.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2095-8",
+      "value": 129.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2096-6",
+      "value": 129,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2097-4",
+      "value": ">10.00",
+      "unit": "mg/L"
+    },
+    {
+      "label": "3016-3",
+      "value": 0.8,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "3017-1",
+      "value": 0.7,
+      "unit": "ug/dL"
+    },
+    {
+      "label": "3018-9",
+      "value": 1.9,
+      "unit": "uIU/mL"
+    },
+    {
+      "label": "3094-0",
+      "value": 410.0,
+      "unit": "pg/mL"
+    },
+    {
+      "label": "3095-7",
+      "value": 129.0,
+      "unit": "nmol/L"
+    },
+    {
+      "label": "3000-6",
+      "value": 7.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "5804-0",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5805-7",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5806-5",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5807-3",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5808-1",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5809-9",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5810-7",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5811-5",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5812-3",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5813-1",
+      "value": "negative",
+      "unit": null
+    },
+    {
+      "label": "5814-9",
+      "value": "few",
+      "unit": null
+    },
+    {
+      "label": "5815-6",
+      "value": "slight lemon yellow",
+      "unit": null
+    }
+  ],
+  "sample-report-7": [
+    {
+      "label": "718-7",
+      "value": 14.5,
+      "unit": "g/dL"
+    },
+    {
+      "label": "6690-2",
+      "value": 4.79,
+      "unit": "million/cmm"
+    },
+    {
+      "label": "4544-3",
+      "value": 43.3,
+      "unit": "%"
+    },
+    {
+      "label": "787-2",
+      "value": 90.3,
+      "unit": "fL"
+    },
+    {
+      "label": "786-7",
+      "value": 30.2,
+      "unit": "pg"
+    },
+    {
+      "label": "785-9",
+      "value": 33.4,
+      "unit": "g/dL"
+    },
+    {
+      "label": "788-7",
+      "value": 13.6,
+      "unit": "%"
+    },
+    {
+      "label": "6690-2",
+      "value": 10570,
+      "unit": "/cmm"
+    },
+    {
+      "label": "751000",
+      "value": 73,
+      "unit": "%"
+    },
+    {
+      "label": "751001",
+      "value": 19,
+      "unit": "%"
+    },
+    {
+      "label": "751002",
+      "value": 2,
+      "unit": "%"
+    },
+    {
+      "label": "751003",
+      "value": 6,
+      "unit": "%"
+    },
+    {
+      "label": "751004",
+      "value": 0,
+      "unit": "%"
+    },
+    {
+      "label": "777-3",
+      "value": 150000,
+      "unit": "/cmm"
+    },
+    {
+      "label": "4548-4",
+      "value": 7,
+      "unit": "mm/1hr"
+    },
+    {
+      "label": "2339-0",
+      "value": "A",
+      "unit": null
+    },
+    {
+      "label": "30315-3",
+      "value": "positive",
+      "unit": null
+    },
+    {
+      "label": "2093-3",
+      "value": 189.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2571-8",
+      "value": 168.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2085-9",
+      "value": 60.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "13457-7",
+      "value": 100.39,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2089-1",
+      "value": 33.6,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "13458-5",
+      "value": 3.1,
+      "unit": null
+    },
+    {
+      "label": "13459-3",
+      "value": 1.7,
+      "unit": null
+    },
+    {
+      "label": "1558-6",
+      "value": 141.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "4548-4",
+      "value": 7.1,
+      "unit": "%"
+    },
+    {
+      "label": "11579-0",
+      "value": 1.01,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "3016-3",
+      "value": 7.84,
+      "unit": "mg/mL"
+    },
+    {
+      "label": "3016-3",
+      "value": 0.8199,
+      "unit": "microIU/mL"
+    },
+    {
+      "label": "14927-0",
+      "value": 10.5,
+      "unit": "mg/L"
+    },
+    {
+      "label": "2885-2",
+      "value": 7.0,
+      "unit": "g/dL"
+    },
+    {
+      "label": "1751-7",
+      "value": 4.2,
+      "unit": "g/dL"
+    },
+    {
+      "label": "1752-5",
+      "value": 2.8,
+      "unit": "g/dL"
+    },
+    {
+      "label": "1753-3",
+      "value": 1.5,
+      "unit": null
+    },
+    {
+      "label": "1975-2",
+      "value": 0.7,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1976-0",
+      "value": 0.3,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1977-8",
+      "value": 0.2,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "1978-6",
+      "value": 0.2,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2450-8",
+      "value": 103.0,
+      "unit": "micro g/dL"
+    },
+    {
+      "label": "2451-6",
+      "value": 352.0,
+      "unit": null
+    },
+    {
+      "label": "2452-4",
+      "value": 29.26,
+      "unit": "%"
+    },
+    {
+      "label": "4548-4",
+      "value": 23.86,
+      "unit": "micromol/L"
+    },
+    {
+      "label": "2160-0",
+      "value": 0.83,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3094-0",
+      "value": 18.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3095-7",
+      "value": 8.41,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3096-5",
+      "value": 4.9,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "3097-3",
+      "value": 9.1,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2885-2",
+      "value": 48.0,
+      "unit": "U/L"
+    },
+    {
+      "label": "2886-0",
+      "value": 27.0,
+      "unit": "U/L"
+    },
+    {
+      "label": "2951-0",
+      "value": 143.0,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2952-8",
+      "value": 4.9,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "2953-6",
+      "value": 105.0,
+      "unit": "mmol/L"
+    },
+    {
+      "label": "4800-0",
+      "value": 8.98,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "3098-1",
+      "value": "< 148",
+      "unit": "pg/mL"
+    },
+    {
+      "label": "3099-9",
+      "value": 0.573,
+      "unit": "ng/mL"
+    },
+    {
+      "label": "4548-4",
+      "value": 492.3,
+      "unit": "IU/mL"
+    },
+    {
+      "label": "4548-4",
+      "value": 0.07,
+      "unit": "S/Co"
+    },
+    {
+      "label": "4548-4",
+      "value": 0.29,
+      "unit": "S/Co"
+    },
+    {
+      "label": "RBC_morphology_smear",
+      "value": "normochromic normocytic",
+      "unit": null
+    },
+    {
+      "label": "WBC_morphology_smear",
+      "value": "normal morphology",
+      "unit": null
+    },
+    {
+      "label": "platelets_morphology_smear",
+      "value": "adequate with normal morphology",
+      "unit": null
+    },
+    {
+      "label": "parasites_smear",
+      "value": "not detected",
+      "unit": null
+    }
+  ],
+  "sample-report-8": [
+    {
+      "label": "2180-3",
+      "value": 46.0,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "2339-0",
+      "value": 70,
+      "unit": "mg/dL"
+    },
+    {
+      "label": "13457-7",
+      "value": 1.0,
+      "unit": "mg/L"
+    },
+    {
+      "label": "15074-8",
+      "value": "high_sensitivity",
+      "unit": null
+    },
+    {
+      "label": "15074-8_smear",
+      "value": "persistent elevation may represent",
+      "unit": null
+    },
+    {
+      "label": "15074-8_smear",
+      "value": "non-cardiovascular inflammation",
+      "unit": null
+    },
+    {
+      "label": "4548-4",
+      "value": 4.0,
+      "unit": null
+    },
+    {
+      "label": "4548-4",
+      "value": "estimated average glucose",
+      "unit": "mg/dL"
+    }
+  ]
+}

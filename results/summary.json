@@ -1,0 +1,37 @@
+{
+  "claude-haiku-4-5-20251001": {
+    "truth_count": 30.125,
+    "pred_count": 26.75,
+    "recall": 0.5628,
+    "value_accuracy": 0.8237,
+    "hallucination_rate": 0.3085
+  },
+  "claude-sonnet-4-6": {
+    "truth_count": 30.125,
+    "pred_count": 31.5,
+    "recall": 0.7062,
+    "value_accuracy": 0.8525,
+    "hallucination_rate": 0.2335
+  },
+  "gemini-2.5-flash": {
+    "truth_count": 30.125,
+    "pred_count": 30.375,
+    "recall": 0.7292,
+    "value_accuracy": 0.9728,
+    "hallucination_rate": 0.288
+  },
+  "gpt-4o": {
+    "truth_count": 24.2857,
+    "pred_count": 19.7143,
+    "recall": 0.4692,
+    "value_accuracy": 0.8355,
+    "hallucination_rate": 0.4745
+  },
+  "gpt-4o-mini": {
+    "truth_count": 30.125,
+    "pred_count": 21.375,
+    "recall": 0.3276,
+    "value_accuracy": 0.7704,
+    "hallucination_rate": 0.6287
+  }
+}

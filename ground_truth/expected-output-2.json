@@ -1,0 +1,67 @@
+[
+  {
+    "label": "718-7",
+    "value": 15,
+    "unit": "g/dl"
+  },
+  {
+    "label": "6690-2",
+    "value": 5100,
+    "unit": "cumm"
+  },
+  {
+    "label": "770-8",
+    "value": 79,
+    "unit": "%"
+  },
+  {
+    "label": "736-9",
+    "value": 18,
+    "unit": "%"
+  },
+  {
+    "label": "713-8",
+    "value": 1,
+    "unit": "%"
+  },
+  {
+    "label": "5905-5",
+    "value": 1,
+    "unit": "%"
+  },
+  {
+    "label": "706-2",
+    "value": 1,
+    "unit": "%"
+  },
+  {
+    "label": "777-3",
+    "value": 3.5,
+    "unit": "lakhs/cumm"
+  },
+  {
+    "label": "789-8",
+    "value": 5,
+    "unit": "million/cumm"
+  },
+  {
+    "label": "4544-3",
+    "value": 42,
+    "unit": "%"
+  },
+  {
+    "label": "787-2",
+    "value": 84.0,
+    "unit": "fl"
+  },
+  {
+    "label": "785-6",
+    "value": 30.0,
+    "unit": "pg"
+  },
+  {
+    "label": "786-4",
+    "value": 35.7,
+    "unit": "%"
+  }
+]

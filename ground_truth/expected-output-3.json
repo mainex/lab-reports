@@ -1,0 +1,72 @@
+[
+  {
+    "label": "718-7",
+    "value": 14.8,
+    "unit": "g/dl"
+  },
+  {
+    "label": "789-8",
+    "value": 5.1,
+    "unit": "10^6/\u00b5l"
+  },
+  {
+    "label": "6690-2",
+    "value": 7.2,
+    "unit": "10^3/\u00b5l"
+  },
+  {
+    "label": "777-3",
+    "value": 275,
+    "unit": "10^3/\u00b5l"
+  },
+  {
+    "label": "787-2",
+    "value": 89,
+    "unit": "fl"
+  },
+  {
+    "label": "785-6",
+    "value": 30.2,
+    "unit": "pg"
+  },
+  {
+    "label": "786-4",
+    "value": 34.1,
+    "unit": "g/dl"
+  },
+  {
+    "label": "788-0",
+    "value": 13.1,
+    "unit": "%"
+  },
+  {
+    "label": "770-8",
+    "value": 62,
+    "unit": "%"
+  },
+  {
+    "label": "736-9",
+    "value": 29,
+    "unit": "%"
+  },
+  {
+    "label": "5905-5",
+    "value": 6,
+    "unit": "%"
+  },
+  {
+    "label": "713-8",
+    "value": 2,
+    "unit": "%"
+  },
+  {
+    "label": "706-2",
+    "value": 1,
+    "unit": "%"
+  },
+  {
+    "label": "4537-7",
+    "value": 10,
+    "unit": "mm/hr"
+  }
+]

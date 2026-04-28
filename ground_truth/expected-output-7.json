@@ -1,0 +1,467 @@
+[
+  {
+    "label": "718-7",
+    "value": 14.5,
+    "unit": "g/dL"
+  },
+  {
+    "label": "789-8",
+    "value": 4.79,
+    "unit": "million/cmm"
+  },
+  {
+    "label": "4544-3",
+    "value": 43.3,
+    "unit": "%"
+  },
+  {
+    "label": "787-2",
+    "value": 90.3,
+    "unit": "fL"
+  },
+  {
+    "label": "785-6",
+    "value": 30.2,
+    "unit": "pg"
+  },
+  {
+    "label": "786-4",
+    "value": 33.4,
+    "unit": "g/dL"
+  },
+  {
+    "label": "788-0",
+    "value": 13.6,
+    "unit": "%"
+  },
+  {
+    "label": "6690-2",
+    "value": 10570,
+    "unit": "/cmm"
+  },
+  {
+    "label": "770-8",
+    "value": 73,
+    "unit": "%"
+  },
+  {
+    "label": "736-9",
+    "value": 19,
+    "unit": "%"
+  },
+  {
+    "label": "713-8",
+    "value": 2,
+    "unit": "%"
+  },
+  {
+    "label": "5905-5",
+    "value": 6,
+    "unit": "%"
+  },
+  {
+    "label": "706-2",
+    "value": 0,
+    "unit": "%"
+  },
+  {
+    "label": "751-8",
+    "value": 7716,
+    "unit": "/cmm"
+  },
+  {
+    "label": "731-0",
+    "value": 2008,
+    "unit": "/cmm"
+  },
+  {
+    "label": "711-2",
+    "value": 211,
+    "unit": "/cmm"
+  },
+  {
+    "label": "742-7",
+    "value": 634,
+    "unit": "/cmm"
+  },
+  {
+    "label": "704-7",
+    "value": 0,
+    "unit": "/cmm"
+  },
+  {
+    "label": "777-3",
+    "value": 150000,
+    "unit": "/cmm"
+  },
+  {
+    "label": "32623-1",
+    "value": 14,
+    "unit": "fL"
+  },
+  {
+    "label": "18311-0",
+    "value": "normochromic normocytic",
+    "unit": null
+  },
+  {
+    "label": "5909-7",
+    "value": "normal morphology",
+    "unit": null
+  },
+  {
+    "label": "13056-7",
+    "value": "adequate with normal morphology",
+    "unit": null
+  },
+  {
+    "label": "32685-0",
+    "value": "not detected",
+    "unit": null
+  },
+  {
+    "label": "4537-7",
+    "value": 7,
+    "unit": "mm/1hr"
+  },
+  {
+    "label": "883-9",
+    "value": "a",
+    "unit": null
+  },
+  {
+    "label": "1305-2",
+    "value": "positive",
+    "unit": null
+  },
+  {
+    "label": "2093-3",
+    "value": 189,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "2571-8",
+    "value": 168,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "2085-9",
+    "value": 60,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "2089-1",
+    "value": 100.39,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "13457-7",
+    "value": 33.6,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "9830-1",
+    "value": 3.1,
+    "unit": null
+  },
+  {
+    "label": "11054-4",
+    "value": 1.7,
+    "unit": null
+  },
+  {
+    "label": "2345-7",
+    "value": 141,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "4548-4",
+    "value": 7.1,
+    "unit": "%"
+  },
+  {
+    "label": "41604-0",
+    "value": 157.07,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "3053-6",
+    "value": 1.01,
+    "unit": "ng/mL"
+  },
+  {
+    "label": "3026-2",
+    "value": 7.84,
+    "unit": "mg/mL"
+  },
+  {
+    "label": "3016-3",
+    "value": 0.8199,
+    "unit": "microIU/mL"
+  },
+  {
+    "label": "14957-5",
+    "value": 10.5,
+    "unit": "mg/L"
+  },
+  {
+    "label": "2885-2",
+    "value": 7,
+    "unit": "g/dL"
+  },
+  {
+    "label": "1751-7",
+    "value": 4.2,
+    "unit": "g/dL"
+  },
+  {
+    "label": "10834-0",
+    "value": 2.8,
+    "unit": "g/dL"
+  },
+  {
+    "label": "1759-0",
+    "value": 1.5,
+    "unit": null
+  },
+  {
+    "label": "1975-2",
+    "value": 0.7,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "1968-7",
+    "value": 0.3,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "1971-1",
+    "value": 0.2,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "42719-5",
+    "value": 0.2,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "2498-4",
+    "value": 103,
+    "unit": "micro g/dL"
+  },
+  {
+    "label": "2500-7",
+    "value": 352,
+    "unit": null
+  },
+  {
+    "label": "2502-3",
+    "value": 29.26,
+    "unit": "%"
+  },
+  {
+    "label": "13965-9",
+    "value": 23.86,
+    "unit": "micromol/L"
+  },
+  {
+    "label": "2160-0",
+    "value": 0.83,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "3091-6",
+    "value": 18,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "3094-0",
+    "value": 8.41,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "3084-1",
+    "value": 4.9,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "17861-6",
+    "value": 9.1,
+    "unit": "mg/dL"
+  },
+  {
+    "label": "1742-6",
+    "value": 48,
+    "unit": "U/L"
+  },
+  {
+    "label": "1920-8",
+    "value": 27,
+    "unit": "U/L"
+  },
+  {
+    "label": "2951-2",
+    "value": 143,
+    "unit": "mmol/L"
+  },
+  {
+    "label": "2823-3",
+    "value": 4.9,
+    "unit": "mmol/L"
+  },
+  {
+    "label": "2075-0",
+    "value": 105,
+    "unit": "mmol/L"
+  },
+  {
+    "label": "1989-3",
+    "value": 8.98,
+    "unit": "ng/mL"
+  },
+  {
+    "label": "2132-9",
+    "value": "<148",
+    "unit": "pg/mL"
+  },
+  {
+    "label": "2857-1",
+    "value": 0.573,
+    "unit": "ng/mL"
+  },
+  {
+    "label": "19113-0",
+    "value": 492.3,
+    "unit": "IU/mL"
+  },
+  {
+    "label": "75622-1",
+    "value": 0.07,
+    "unit": "S/Co"
+  },
+  {
+    "label": "75622-1",
+    "value": "non reactive",
+    "unit": null
+  },
+  {
+    "label": "5195-3",
+    "value": 0.29,
+    "unit": "S/Co"
+  },
+  {
+    "label": "5195-3",
+    "value": "non reactive",
+    "unit": null
+  },
+  {
+    "label": "4551-8",
+    "value": 84.4,
+    "unit": "%"
+  },
+  {
+    "label": "4552-6",
+    "value": 2.8,
+    "unit": "%"
+  },
+  {
+    "label": "p2_peak_blood",
+    "value": 5.5,
+    "unit": "%"
+  },
+  {
+    "label": "p3_peak_blood",
+    "value": 5.2,
+    "unit": "%"
+  },
+  {
+    "label": "4576-5",
+    "value": 0.3,
+    "unit": "%"
+  },
+  {
+    "label": "beta_thalassemia_trait_interpretation_blood",
+    "value": "negative",
+    "unit": null
+  },
+  {
+    "label": "5778-6",
+    "value": "pale yellow",
+    "unit": null
+  },
+  {
+    "label": "32167-9",
+    "value": "clear",
+    "unit": null
+  },
+  {
+    "label": "5764-5",
+    "value": 6,
+    "unit": null
+  },
+  {
+    "label": "2965-2",
+    "value": 1.03,
+    "unit": null
+  },
+  {
+    "label": "25428-4",
+    "value": "present (+)",
+    "unit": null
+  },
+  {
+    "label": "20454-5",
+    "value": "absent",
+    "unit": null
+  },
+  {
+    "label": "5770-2",
+    "value": "absent",
+    "unit": null
+  },
+  {
+    "label": "13658-0",
+    "value": "absent",
+    "unit": null
+  },
+  {
+    "label": "2514-8",
+    "value": "absent",
+    "unit": null
+  },
+  {
+    "label": "5802-3",
+    "value": "absent",
+    "unit": null
+  },
+  {
+    "label": "5821-3",
+    "value": "1-2",
+    "unit": "/hpf"
+  },
+  {
+    "label": "13945-1",
+    "value": "nil",
+    "unit": "/hpf"
+  },
+  {
+    "label": "5787-6",
+    "value": "1-2",
+    "unit": "/hpf"
+  },
+  {
+    "label": "24124-3",
+    "value": "absent",
+    "unit": "/hpf"
+  },
+  {
+    "label": "5786-8",
+    "value": "absent",
+    "unit": null
+  },
+  {
+    "label": "amorphous_material_urine",
+    "value": "absent",
+    "unit": null
+  }
+]

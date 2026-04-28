@@ -1,0 +1,28 @@
+Extract lab results from a medical lab report into a JSON array.
+
+Output format:
+[
+  { "label": "718-7", "value": 15.5, "unit": "g%" },
+  { "label": "18311-0", "value": "normocytic, normochromic", "unit": null }
+]
+
+LABELS
+- Use the LOINC code as the label (e.g. "718-7" for hemoglobin, "6690-2"
+  for WBC, "1742-6" for ALT).
+- If you do not know the LOINC code for a test, use the full English name
+  in snake_case with specimen suffix (_blood, _urine, _smear) as fallback.
+
+VALUES
+- Numeric results must be JSON numbers, not strings.
+- Text results (qualitative findings) must be lowercase strings.
+- Extract only the patient result. Ignore reference ranges and flag columns.
+
+MORPHOLOGY / SMEAR
+- Smear and morphology findings are valid results; include them with a _smear suffix.
+- Store the finding as a lowercase string. Never invent a numeric value for a morphology finding.
+
+UNITS
+- Set unit to null when no unit is present.
+
+OUTPUT
+- Return only the raw JSON array. No explanation, no markdown, no code fences.

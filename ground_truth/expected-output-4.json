@@ -1,0 +1,87 @@
+[
+  {
+    "label": "6690-2",
+    "value": 6000,
+    "unit": "/\u00b5l"
+  },
+  {
+    "label": "789-8",
+    "value": 4.5,
+    "unit": "million/\u00b5l"
+  },
+  {
+    "label": "718-7",
+    "value": 13.5,
+    "unit": "g/dl"
+  },
+  {
+    "label": "4544-3",
+    "value": 40,
+    "unit": "%"
+  },
+  {
+    "label": "777-3",
+    "value": 250000,
+    "unit": "/\u00b5l"
+  },
+  {
+    "label": "2345-7",
+    "value": 90,
+    "unit": "mg/dl"
+  },
+  {
+    "label": "2951-2",
+    "value": 140,
+    "unit": "meq/l"
+  },
+  {
+    "label": "2823-3",
+    "value": 4.2,
+    "unit": "meq/l"
+  },
+  {
+    "label": "2075-0",
+    "value": 102,
+    "unit": "meq/l"
+  },
+  {
+    "label": "1920-8",
+    "value": 20,
+    "unit": "u/l"
+  },
+  {
+    "label": "1742-6",
+    "value": 25,
+    "unit": "u/l"
+  },
+  {
+    "label": "3094-0",
+    "value": 14,
+    "unit": "mg/dl"
+  },
+  {
+    "label": "2160-0",
+    "value": 0.9,
+    "unit": "mg/dl"
+  },
+  {
+    "label": "2093-3",
+    "value": 180,
+    "unit": "mg/dl"
+  },
+  {
+    "label": "2085-9",
+    "value": 55,
+    "unit": "mg/dl"
+  },
+  {
+    "label": "2089-1",
+    "value": 100,
+    "unit": "mg/dl"
+  },
+  {
+    "label": "2571-8",
+    "value": 120,
+    "unit": "mg/dl"
+  }
+]
